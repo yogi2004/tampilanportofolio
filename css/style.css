@@ -1,0 +1,58 @@
+body {
+    background: #CCC;
+}
+
+#Header a:hover {
+    color: #FFF;
+}
+
+#bg-img {
+    background: url('../img/back.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.fab {
+    color: white;
+}
+
+#About {
+    margin-top: -200px;
+}
+
+#About .fa {
+    color: white;
+}
+
+#About span {
+    padding: 10px 20px 10px 20px;
+}
+
+#About hr {
+    border-width: 2px;
+    margin-top: 06px;
+}
+
+#Skills span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Skills hr {
+    border-width: 2px;
+    margin-top: 06px;
+}
+
+h4 {
+    font-family: 'Arapey', serif;
+}
+
+span {
+    font-family: 'Arapey', serif;
+
+}
+
+p {
+    font-family: 'Arapey', serif;
+
+}
